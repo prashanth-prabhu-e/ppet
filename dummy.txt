@@ -1,1 +1,5 @@
+Version 1.
 Just a dummy, dummy!
+
+Version 2.
+Nothing to add.
