@@ -1,8 +1,0 @@
-Version 1.
-Just a dummy, dummy!
-
-Version 2.
-Nothing to add.
-
-Version 3.
-Adding line after committing from ppet-2.
